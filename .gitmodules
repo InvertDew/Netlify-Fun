@@ -1,0 +1,3 @@
+[submodule "Django-Bible"]
+	path = Django-Bible
+	url = git@github.com:jtai-dev/Django-Bible.git
